@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vertex AI",
+  "description": "Reach your career peak with our premium AI-powered career and communication development ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
